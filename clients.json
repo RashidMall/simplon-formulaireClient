@@ -1,0 +1,46 @@
+[
+    {
+        "nom": "Beauchesne",
+        "prenom": "Vernon",
+        "age": "81",
+        "profession": "Water transportation",
+        "email": "VernonBeauchesne@gmail.com",
+        "telephone": "01.92.50.60.98"
+    },
+
+    {
+        "nom": "Ranger",
+        "prenom": "Legault",
+        "age": "30",
+        "profession": "Bookmobile driver",
+        "email": "RangerLegault@gmail.com",
+        "telephone": "03.63.53.77.17"
+    },
+
+    {
+        "nom": "Beauchesne",
+        "prenom": "Vernon",
+        "age": "72",
+        "profession": "Apartment manager",
+        "email": "PhilippeDAvis@gmail.com",
+        "telephone": "05.28.73.89.19"
+    },
+
+    {
+        "nom": "Charron",
+        "prenom": "Corinne",
+        "age": "79",
+        "profession": "Geodetic surveyor",
+        "email": "CorinneCharron@mail.com",
+        "telephone": "04.80.67.87.07"
+    },
+
+    {
+        "nom": "Laux",
+        "prenom": "Thérèse",
+        "age": "71",
+        "profession": "Mental health counselor",
+        "email": "ThereseLaux@mail.com",
+        "telephone": "05.56.33.65.89"
+    }
+]
